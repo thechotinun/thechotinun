@@ -2,7 +2,7 @@
 <p>I'm full-stack developer with experience and expertise in React.js, Node.js, javascript </br>
   and PHP and I have experience in mobile application develop using React Native.</p>
 
-| <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thechotinun&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechotinun&layout=compact" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=thechotinun&show_icons=true&hide=issues,contribs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thechotinun&show_icons=true&hide=issues,contribs" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=thechotinun&show_icons=true&hide=issues,contribs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thechotinun&show_icons=true&hide=issues,contribs" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thechotinun&layout=compact&hide_progress=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thechotinun&layout=compact&hide_progress=true" /></a> |
 | ------------- | ------------- |
 
 
